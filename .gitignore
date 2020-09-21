@@ -1,3 +1,5 @@
-/venv
-/.idea
-/adi-packages
+venv/
+.idea/
+adi-packages/
+.git/
+
